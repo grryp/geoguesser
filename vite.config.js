@@ -10,6 +10,6 @@ export default defineConfig({
   preview: {
     host: true,
     port: 4173,
-    allowedHosts: ['.onrender.com'],
+    allowedHosts: ['geoguesser-to2s.onrender.com'],
   },
 })
